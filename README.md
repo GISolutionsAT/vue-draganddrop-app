@@ -1,4 +1,4 @@
-# draganddropapp
+# Vue, Openlayers - Drag and Drop Map Application
 
 ## Project setup
 ```
